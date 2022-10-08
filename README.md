@@ -49,12 +49,6 @@ Os usuários devem ser capazes de:
 
 <br />
 
-# 👩🚀 Meu processo <a name="id03"></a>
-
-<br />
-
-1 dias para concluir o projeto
-
 ## :trophy: Construção do site <a name="id03.1"></a>
 
 1. Criação da pasta assets 
@@ -91,7 +85,7 @@ Dentro da pasta `/design` está o design do projeto.
 
 <br />
 
-- Clique no link para acessar a página: https://lively-kangaroo-a1eaa7.netlify.app/
+- Clique no link para acessar a página: https://dark-login-14a81c.netlify.app/
 
 <br />
 
