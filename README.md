@@ -79,11 +79,11 @@ Dentro da pasta `/design` está o design do projeto.
 
 ## :desktop_computer: Desktop design
 
-![Design preview desktop](./design/tela-login-desktop.png)
+![Design preview desktop](./design/img/desktop.png)
 
 ## :iphone: Mobile design
 
-![Design preview mobile](./design/tela-login-mobile.png)
+![Design preview mobile](./design/img/mobile.png)
 
 <br />
 
